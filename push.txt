@@ -1,0 +1,10 @@
+
+git status
+
+git add .
+
+git commit -m "Add existing file"
+
+git remote add origin https://github.com/pacopacev/test.git
+
+git push origin master
