@@ -8,7 +8,7 @@ git commit -m "Add existing file"
 git remote add origin https://github.com/pacopacev/test.git
 
 git push origin master
-
+push -u origin main
 
 
 git remote -v
@@ -23,3 +23,4 @@ git remote -v
 # Verify new remote URL
 # origin  https://github.com/user/repo2.git (fetch)
 # origin  https://github.com/user/repo2.git (push)
+test
