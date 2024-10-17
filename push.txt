@@ -8,7 +8,7 @@ git commit -m "Add existing file"
 git remote add origin https://github.com/pacopacev/test.git
 
 git push origin master
-push -u origin main
+git Spush -u origin main
 
 
 git remote -v
