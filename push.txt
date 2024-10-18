@@ -5,10 +5,13 @@ git add .
 
 git commit -m "Add existing file"
 
-git remote add origin https://github.com/pacopacev/test.git
+#git remote add origin https://github.com/pacopacev/test.git
 
-git push origin master
+#git push origin master
 git Spush -u origin main
+
+
+
 
 
 git remote -v
